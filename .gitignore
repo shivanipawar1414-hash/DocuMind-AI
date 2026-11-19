@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# React
+node_modules/
+dist/
+
+# Django
+media/
+*.log
+
+# Database
+db.sqlite3
+
+
+# Ignore uploaded PDF documents
+backend/documents/*.pdf
